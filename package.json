@@ -1,0 +1,24 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genoxas/PersonalWebsiteWithNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genoxas/PersonalWebsiteWithNodeJS/issues"
+  },
+  "homepage": "https://github.com/Genoxas/PersonalWebsiteWithNodeJS#readme",
+  "description": ""
+}
